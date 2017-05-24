@@ -1,0 +1,16 @@
+{
+  "name": "polymer-dashboard-pluralsight",
+  "version": "1.0.0",
+  "description": "Application created from pluralsight course available here https://app.pluralsight.com/player?course=building-web-application-polymer-material-design",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julien Lengrand-Lambert",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
