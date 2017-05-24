@@ -10,7 +10,9 @@
   },
   "author": "Julien Lengrand-Lambert",
   "license": "ISC",
-  "devDependencies": {},
+  "devDependencies": {
+    "bower-art-resolver": "^2.0.6"
+  },
   "dependencies": {
     "express": "^4.15.3"
   }
